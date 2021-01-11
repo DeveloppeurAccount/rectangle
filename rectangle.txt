@@ -1,0 +1,26 @@
+Atelier
+
+1)
+
+La première étape en récupérant les arguments, ça va être de transformer le contenu de notre chaine de caractère en des données
+On va supposer que notre chaine de caractère "c1.txt" ça renvoie à des données, à un fichier dans notre système
+on va donc appeler une fonction qui va prendre le chemin du fichier et qui va donner de la data derrière
+et l'idée va être de rediriger cette data dans un tableau.
+on va faire 1 ligne = 1 tableau
+
+Ensuite on va faire la même chose pour le tableau c2
+
+2)
+
+La deuxième étpae, il faut que l'on puisse retrouver les données du premier tableau dans le second tableau
+on va parcourir notre tableau jusqu'à trouver la première valeur de notre premier tableau dans le second
+
+3)
+
+on vérifie que toutes les valeurs de X correspondent à celle de Y en respectant l'agencement
+
+4)
+
+Si c'est vérifié, on affiche la position du rectangle ( les coordonnées )
+
+Si ce n'est pas le cas, on recherche de nouveau la première valeur de X dans Y
